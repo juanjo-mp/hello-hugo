@@ -1,9 +1,76 @@
-baseURL = "/"
-languageCode = "en-us"
+baseurl = "https://jmolina.cloud"
+title = "Juan Molina"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
 
-title = "jmolina.cloud"
-name = "Juan Molina"
-description = "Hello Moto"
+paginate = 20
 
-theme = "fuji"
-paginate = "10"
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+#disqusShortname = "yourdiscussshortname"
+
+[params]
+  author = "Juan Molina"
+  info = "Systems Engineer and Web Developer"
+  description = "Juan Molina's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "/img/profile.jpg"
+  #gravatar = "john.doe@example.com"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  #footercontent = ""
+  hideFooter = false
+  hideCredits = false
+  hideCopyright = false
+  since = 2021
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  customCSS = ["css/custom.css"]
+#  customSCSS = ["scss/custom.scss"]
+#  customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/juanjo-mp/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/jmolinaperez/"
+[[params.social]]
+  name = "Instagram"
+  icon = "fa fa-instagram fa-2x"
+  weight = 3
+  url = "https://instagram.com/juanjo_mp98"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url = "posts/"
+[[menu.main]]
+  name = "Portofolio"
+  weight = 2
+  url = "portofolio/"
+[[menu.main]]
+  name = "About"
+  weight = 3
+  url = "about/"
