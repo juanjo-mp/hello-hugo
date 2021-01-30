@@ -1,9 +1,9 @@
 baseURL = "/"
 languageCode = "en-us"
 
-title = "Hello Hugo"
-name = "John Doe"
-description = "hello, world"
+title = "jmolina.cloud"
+name = "Juan Molina"
+description = "Hello Moto"
 
-theme = "mainroad"
+theme = "fuji"
 paginate = "10"

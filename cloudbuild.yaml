@@ -15,7 +15,7 @@ steps:
   args:
   - '-c'
   - |
-    curl -sL https://github.com/gohugoio/hugo/releases/download/v0.69.2/hugo_0.69.2_Linux-64bit.tar.gz | tar -zxv
+    curl -sL https://github.com/gohugoio/hugo/releases/download/v0.80.0/hugo_0.80.0_Linux-64bit.tar.gz | tar -zxv
     ./hugo
 
 - name: 'gcr.io/cloud-builders/wget'
