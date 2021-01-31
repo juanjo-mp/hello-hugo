@@ -6,3 +6,6 @@ slug = ""
 +++
 
 # Royal Blue - Vacation Rental website
+![Royal Blue]( /img/royalblue.png)
+
+{{< button url="https://www.royalblue.es" >}}

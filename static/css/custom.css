@@ -27,7 +27,11 @@ i:hover {
 i:visited {
 	color: #3EFFB3;
 }
-
+.button {
+	background-color: #3EFFB3;
+	color: 000;
+	padding: 10px 20px;
+}
 /* Dark theme custom CSS*/
 body.colorscheme-dark a:link {
         color: #dadada;
