@@ -5,4 +5,6 @@ title = "About"
 slug = "" 
 +++
 
-Mid-level Systems Engineer, amateur Web Developer and aspiring Cloud Architect.
+Aspiring Cloud Architect, currently working as Linux Sysadmin.
+
+Pasionate about Linux, Free Software, automation, cloud computing and crazy about serverless.

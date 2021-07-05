@@ -2895,7 +2895,7 @@ body {
       line-height: 1.6em; } }
 a {
   font-weight: 300;
-  color: #1565c0;
+  color: #3EFFB3;
   text-decoration: none;
   transition: all .25s ease-in; }
   a:focus, a:hover {
@@ -2927,7 +2927,7 @@ h6 {
   h4 .heading-link,
   h5 .heading-link,
   h6 .heading-link {
-    color: #1565c0;
+    color: #3EFFB3;
     font-weight: inherit;
     text-decoration: none;
     font-size: 80%;
@@ -3166,7 +3166,7 @@ img.emoji {
       font-family: Lato, Helvetica, sans-serif;
       font-weight: 700; }
       .list ul li .title:hover, .list ul li .title:focus {
-        color: #1565c0; }
+        color: #3EFFB3; }
 
 @media only screen and (min-width: 768.1px) {
   .list ul:not(.pagination) li {
@@ -3202,7 +3202,7 @@ img.emoji {
           margin-right: 1.0rem;
           font-size: 1.6rem; }
           .centered .about ul li a:hover, .centered .about ul li a:focus {
-            color: #1565c0; }
+            color: #3EFFB3; }
           @media only screen and (max-width: 768px) {
             .centered .about ul li a {
               font-size: 1.4rem; } }
@@ -3235,7 +3235,7 @@ img.emoji {
     line-height: 6.0rem;
     color: #212121; }
   .navigation a:hover, .navigation a:focus {
-    color: #1565c0; }
+    color: #3EFFB3; }
   .navigation .navigation-title {
     letter-spacing: 0.1rem;
     text-transform: uppercase; }
@@ -3312,7 +3312,7 @@ img.emoji {
     color: #212121;
     cursor: pointer; }
     .navigation i:hover, .navigation i:focus {
-      color: #1565c0; }
+      color: #3EFFB3; }
 
 .pagination {
   margin-top: 6.0rem;
@@ -3340,7 +3340,7 @@ img.emoji {
   line-height: 2.0rem;
   margin-bottom: 1.0rem; }
   .footer a {
-    color: #1565c0; }
+    color: #3EFFB3; }
 
 .float-container {
   bottom: 2rem;
@@ -3360,7 +3360,7 @@ img.emoji {
     opacity: 50%;
     transition: all .25s ease-in; }
     .float-container a:hover, .float-container a:focus {
-      color: #1565c0;
+      color: #3EFFB3;
       opacity: 100%; }
       @media only screen and (max-width: 768px) {
         .float-container a:hover, .float-container a:focus {

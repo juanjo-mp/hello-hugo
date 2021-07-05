@@ -14,7 +14,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
   author = "Juan Molina"
-  info = "Systems Engineer and Web Developer"
+  info = "Systems Engineer"
   description = "Juan Molina's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "/img/profile.jpg"
@@ -67,14 +67,10 @@ pygmentscodefencesguesssyntax = true
   weight = 1
   url = "posts/"
 [[menu.main]]
-  name = "Portofolio"
-  weight = 2
-  url = "portofolio/"
-[[menu.main]]
   name = "About"
-  weight = 3
+  weight = 2
   url = "about/"
 [[menu.main]]
   name = "Contact"
-  weight = 4
+  weight = 3
   url = "contact/"
